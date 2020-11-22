@@ -4,7 +4,7 @@ In this project, we  reproduced  the  main  results  presented  in  [1].    Thus
 
 | Model  | ROCAUC | AUPRin  | AUPROut | Acc  | TNR AT 95% TPR | 
 | ------------- | ------------- |  ------------- | ------------- | ------------- | ------------- | 
-| Mahalanobis Single Layer with input-preprocessing at 0.005  | 98.5  | 96 | 98.8  | 93.8 | 51.2  |
+| Mahalanobis Single Layer with input-preprocessing at 0.005  | 98.5  | 96 | 98.8  | 93.8 | 93.1  |
 | Mahalanobis Single Layer without input-preprocessing | 94.3  | 92.2  | 93.9  | 87.9  | 56.7 |
 | Mahalanobis with feature ensembling and input-preprocessing at 0.005 | 98.9 | 98.3  | 99.3  | 97.6  | 97  |
 
